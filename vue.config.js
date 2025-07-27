@@ -1,6 +1,7 @@
 const webpack = require('webpack');
 
 module.exports = {
+    publicPath: '/page/',
   configureWebpack: {
     // Set up all the aliases we use in our app.
     plugins: [
@@ -10,7 +11,8 @@ module.exports = {
     ]
   },
   pwa: {
-    name: 'Vue Argon Design',
+    name: 'CredØ - Credential Zero',
+    short_name: 'CredØ',
     themeColor: '#172b4d',
     msTileColor: '#172b4d',
     appleMobileWebAppCapable: 'yes',
