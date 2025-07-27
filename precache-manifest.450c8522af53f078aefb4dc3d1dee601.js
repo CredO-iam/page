@@ -16,20 +16,20 @@ self.__precacheManifest = [
     "url": "/page/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "f82ec6ba2dc4181db2af35c499462840",
-    "url": "/page/fonts/nucleo-icons.f82ec6ba.ttf"
-  },
-  {
     "revision": "426439788ec5ba772cdf94057f6f4659",
     "url": "/page/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
-    "url": "/page/img/nucleo-icons.0b8a30b1.svg"
-  },
-  {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "/page/fonts/nucleo-icons.2569aaea.woff"
+  },
+  {
+    "revision": "f82ec6ba2dc4181db2af35c499462840",
+    "url": "/page/fonts/nucleo-icons.f82ec6ba.ttf"
+  },
+  {
+    "revision": "0b8a30b10cbe7708d5f3a4b007c1d665",
+    "url": "/page/img/nucleo-icons.0b8a30b1.svg"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/page/fonts/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/page/fonts/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/page/img/fontawesome-webfont.912ec66d.svg"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/page/fonts/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "ca730400c3c24398406b71c3b8db25e6",
@@ -76,6 +76,10 @@ self.__precacheManifest = [
     "url": "/page/img/brand/github-white-slim.png"
   },
   {
+    "revision": "6fafe4baca9d50d61a898c84ade7afa3",
+    "url": "/page/img/brand/white.png"
+  },
+  {
     "revision": "594b1ee1d95ada356eaad078e9217932",
     "url": "/page/img/ill/ill-2.svg"
   },
@@ -84,32 +88,24 @@ self.__precacheManifest = [
     "url": "/page/img/theme/img-1-1200x1000.jpg"
   },
   {
-    "revision": "dc49ad52655e1d9d0552c026db3ef688",
-    "url": "/page/img/theme/landing.jpg"
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/page/img/theme/img-2-1200x1000.jpg"
   },
   {
-    "revision": "6fafe4baca9d50d61a898c84ade7afa3",
-    "url": "/page/img/brand/white.png"
+    "revision": "dc49ad52655e1d9d0552c026db3ef688",
+    "url": "/page/img/theme/landing.jpg"
   },
   {
     "revision": "974088a1931e40895bac6db119c62448",
     "url": "/page/img/theme/promo-1.png"
   },
   {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/page/img/theme/img-2-1200x1000.jpg"
+    "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
+    "url": "/page/img/theme/profile.jpg"
   },
   {
     "revision": "edc7106b21ec12e57022b2ebd534cd2d",
     "url": "/page/img/theme/team-1-800x800.jpg"
-  },
-  {
-    "revision": "66618a418175ddf2ac8c47a241d327a8",
-    "url": "/page/img/theme/team-4-800x800.jpg"
-  },
-  {
-    "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
-    "url": "/page/img/theme/profile.jpg"
   },
   {
     "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
@@ -118,5 +114,9 @@ self.__precacheManifest = [
   {
     "revision": "be997d5226b992ffad34816870c6b7aa",
     "url": "/page/img/theme/team-2-800x800.jpg"
+  },
+  {
+    "revision": "66618a418175ddf2ac8c47a241d327a8",
+    "url": "/page/img/theme/team-4-800x800.jpg"
   }
 ];

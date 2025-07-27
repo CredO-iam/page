@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/page/precache-manifest.371dc8bb8b87175e5df875ed29aaaca0.js"
+  "/page/precache-manifest.450c8522af53f078aefb4dc3d1dee601.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cred0-landing-page"});
