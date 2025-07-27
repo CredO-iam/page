@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "43d2e715c9f94a9294eb",
+    "revision": "07791c1c946684dc7a67",
     "url": "/page/css/app.05ea3664.css"
   },
   {
-    "revision": "43d2e715c9f94a9294eb",
-    "url": "/page/js/app.0f30fc0f.js"
+    "revision": "07791c1c946684dc7a67",
+    "url": "/page/js/app.8e7d496e.js"
   },
   {
     "revision": "0b93a6b2c416f48a74d5",
     "url": "/page/js/chunk-vendors.e6616f99.js"
   },
   {
-    "revision": "426439788ec5ba772cdf94057f6f4659",
-    "url": "/page/fonts/nucleo-icons.42643978.woff2"
+    "revision": "c1733565b32b585676302d4233c39da8",
+    "url": "/page/fonts/nucleo-icons.c1733565.eot"
   },
   {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "/page/fonts/nucleo-icons.2569aaea.woff"
   },
   {
-    "revision": "c1733565b32b585676302d4233c39da8",
-    "url": "/page/fonts/nucleo-icons.c1733565.eot"
+    "revision": "426439788ec5ba772cdf94057f6f4659",
+    "url": "/page/fonts/nucleo-icons.42643978.woff2"
   },
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
@@ -52,16 +52,8 @@ self.__precacheManifest = [
     "url": "/page/img/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "9e3408e0a81ac46cbc8ea01a5a884905",
+    "revision": "441827bd25a1ed10f1e2bef469d3e149",
     "url": "/page/index.html"
-  },
-  {
-    "revision": "b9949387c6179e2dc4c675134a7b7935",
-    "url": "/page/favicon.png"
-  },
-  {
-    "revision": "185288d13ed8e9d745bd279ea34667bf",
-    "url": "/page/img/brand/blue.png"
   },
   {
     "revision": "c85c75275c0a0a617f9e5accc2700908",
@@ -69,15 +61,23 @@ self.__precacheManifest = [
   },
   {
     "revision": "b9949387c6179e2dc4c675134a7b7935",
+    "url": "/page/favicon.png"
+  },
+  {
+    "revision": "b9949387c6179e2dc4c675134a7b7935",
     "url": "/page/img/brand/favicon.png"
   },
   {
-    "revision": "8e55eab46b5fcfc4a7a0b27cb07c8888",
-    "url": "/page/img/brand/github-white-slim.png"
+    "revision": "185288d13ed8e9d745bd279ea34667bf",
+    "url": "/page/img/brand/blue.png"
   },
   {
     "revision": "6fafe4baca9d50d61a898c84ade7afa3",
     "url": "/page/img/brand/white.png"
+  },
+  {
+    "revision": "8e55eab46b5fcfc4a7a0b27cb07c8888",
+    "url": "/page/img/brand/github-white-slim.png"
   },
   {
     "revision": "594b1ee1d95ada356eaad078e9217932",
@@ -88,32 +88,32 @@ self.__precacheManifest = [
     "url": "/page/img/theme/img-1-1200x1000.jpg"
   },
   {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/page/img/theme/img-2-1200x1000.jpg"
-  },
-  {
     "revision": "dc49ad52655e1d9d0552c026db3ef688",
     "url": "/page/img/theme/landing.jpg"
-  },
-  {
-    "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
-    "url": "/page/img/theme/profile.jpg"
   },
   {
     "revision": "974088a1931e40895bac6db119c62448",
     "url": "/page/img/theme/promo-1.png"
   },
   {
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/page/img/theme/img-2-1200x1000.jpg"
+  },
+  {
+    "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
+    "url": "/page/img/theme/profile.jpg"
+  },
+  {
     "revision": "edc7106b21ec12e57022b2ebd534cd2d",
     "url": "/page/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "be997d5226b992ffad34816870c6b7aa",
-    "url": "/page/img/theme/team-2-800x800.jpg"
-  },
-  {
     "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
     "url": "/page/img/theme/team-3-800x800.jpg"
+  },
+  {
+    "revision": "be997d5226b992ffad34816870c6b7aa",
+    "url": "/page/img/theme/team-2-800x800.jpg"
   },
   {
     "revision": "66618a418175ddf2ac8c47a241d327a8",
