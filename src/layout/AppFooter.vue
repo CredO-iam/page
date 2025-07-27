@@ -10,12 +10,17 @@
                     <a target="_blank" rel="noopener" href="https://twitter.com/cred0"
                        class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Follow us">
-                        <i class="fa fa-twitter"></i>
+                        <i class="fa-brands fa-x-twitter"></i>
                     </a>
                     <a target="_blank" rel="noopener" href="https://github.com/CredO-iam"
                        class="btn btn-neutral btn-icon-only btn-github btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Star on Github">
-                        <i class="fa fa-github"></i>
+                        <i class="fa-brands fa-github"></i>
+                    </a>
+                    <a target="_blank" rel="noopener" href="https://github.com/CredO-iam"
+                       class="btn btn-neutral btn-icon-only btn-round btn-lg" data-toggle="tooltip"
+                       data-original-title="LinkedIn">
+                        <i class="fa-brands fa-linkedin"></i>
                     </a>
                 </div>
             </div>

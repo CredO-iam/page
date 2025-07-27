@@ -16,16 +16,23 @@
             </router-link>
             <ul class="navbar-nav align-items-lg-center ml-lg-auto">
                 <li class="nav-item">
-                    <a class="nav-link nav-link-icon" href="https://twitter.com/cred0" target="_blank" rel="noopener"
+                    <a class="nav-link nav-link-icon" href="https://www.linkedin.com/company/cred0/about" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Follow us on Twitter">
-                        <i class="fa fa-twitter-square"></i>
+                        <i class="fa-brands fa-linkedin"></i>
                         <span class="nav-link-inner--text d-lg-none">Twitter</span>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://github.com/CredO-iam"
                        target="_blank" rel="noopener" data-toggle="tooltip" title="Star us on Github">
-                        <i class="fa fa-github"></i>
+                        <i class="fa-brands fa-github"></i>
+                        <span class="nav-link-inner--text d-lg-none">Github</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link nav-link-icon" href="https://github.com/CredO-iam"
+                       target="_blank" rel="noopener" data-toggle="tooltip" title="Star us on Github">
+                        <i class="fa-brands fa-bluesky"></i>
                         <span class="nav-link-inner--text d-lg-none">Github</span>
                     </a>
                 </li>
