@@ -18,7 +18,7 @@
                 <li class="nav-item">
                     <a class="nav-link nav-link-icon" href="https://www.linkedin.com/company/cred0/about" target="_blank" rel="noopener"
                        data-toggle="tooltip" title="Follow us on Twitter">
-                        <i class="fa-brands fa-linkedin"></i>
+                        <i class="fa-brands fa-square-linkedin"></i>
                         <span class="nav-link-inner--text d-lg-none">Twitter</span>
                     </a>
                 </li>
